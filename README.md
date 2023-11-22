@@ -1,7 +1,7 @@
-# Finance-and-Supply-Chain-Analysis
-The project involves performing financial and supply chain analytics on Atliq hardwares data. The primary objective is to answer various analytical questions related to sales, gross sales, market, product, customers, and supply chain forecasting.
+# Finance & Supply-Chain Analysis
+This project involves performing financial and supply chain analytics on Atliq hardwares data. The primary objective is to answer various analytical questions related to sales, gross sales, market, product, customers, and supply chain forecasting.
 
-## Supply chain concepts used
+## Supply-Chain concepts used
 - Forecast value: The predicted value of demand for products.
 - Net error: The difference between forecast value and actual value.
 - Absolute Net error: the positive value of net error even if the net error is negative
