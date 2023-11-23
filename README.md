@@ -2,6 +2,8 @@
 This project involves performing financial and supply chain analytics on Atliq hardwares data. The primary objective is to answer various analytical questions related to sales, gross sales, market, product, customers, and supply chain forecasting.
 
 ## Project Overview
+
+## Project Overview
 In this endeavor, I took a closer look at Atliq Hardware, a fictional leader in computer hardware. The challenge was to empower the management with valuable insights using MySQL.
 
 ## Supply-Chain concepts used
